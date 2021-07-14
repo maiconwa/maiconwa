@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+<sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
 <details>
-  <sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
   <br>
 - 🔭 I’m currently working on a portfolio
 - 🌱 I’m currently learning data science
