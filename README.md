@@ -9,3 +9,10 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I have an eight years old cat.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?maiconwa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?maiconwa=anuraghazra&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?maiconwa=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?maiconwa=anuraghazra&show_icons=true&theme=radical)
