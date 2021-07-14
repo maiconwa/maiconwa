@@ -12,5 +12,7 @@
 - ⚡ Fun fact: I have an eight years old cat.<br>
 </details>
 
-![Maicon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconwa&count_private=true)
 [![Maicon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconwa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
