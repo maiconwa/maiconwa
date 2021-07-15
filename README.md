@@ -14,8 +14,9 @@
 </details>
 -->
 
+<p align="center">
 [![Portfólio](https://github.com/maiconwa/maiconwa/blob/main/351456.png?raw=true)](https://maiconwa.github.io/Projeto-Portfolio/)
-
+</p>
 <!--
 [Portfólio](https://maiconwa.github.io/Projeto-Portfolio/)<br>
 ![Portfólio](https://github.com/maiconwa/maiconwa/blob/main/351456.png?raw=true)
