@@ -13,10 +13,10 @@
 - ⚡ Fun fact: I have an eight years old cat.<br>
 </details>
 -->
-<p align="center">
-![Portfólio](https://github.com/maiconwa/maiconwa/blob/main/351456.png?raw=true)
-[Click aqui](https://maiconwa.github.io/Projeto-Portfolio/)
-</p>
+
+![Portfólio]((https://github.com/maiconwa/maiconwa/blob/main/351456.png?raw=true)(https://maiconwa.github.io/Projeto-Portfolio/))
+[](https://maiconwa.github.io/Projeto-Portfolio/)
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconwa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
