@@ -1,8 +1,9 @@
 <p align="center">
 ### Hi there 👋
+</p>
 
-<sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
-<details>
+<sumary align="center"> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
+<details align="center">
 - 🔭 I’m currently working on a portfolio<br>
 - 🌱 I’m currently learning data science<br>
 - 👯 I’m looking to collaborate on open source projects<br>
@@ -12,7 +13,7 @@
 - 😄 Pronouns: He/his<br>
 - ⚡ Fun fact: I have an eight years old cat.<br>
 </details>
-</p>
+
 
 <!--  
 [![Portfólio](https://github.com/maiconwa/maiconwa/blob/main/351456.png?raw=true)](https://maiconwa.github.io/Projeto-Portfolio/)
