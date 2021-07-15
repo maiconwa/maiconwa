@@ -1,10 +1,8 @@
-<p align="center">
+<p>
 ### Hi there 👋
 </p>
-<br align="center">
-<sumary align="center"> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
-</br>
-<details align="center">
+<sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
+<details>
 - 🔭 I’m currently working on a portfolio<br>
 - 🌱 I’m currently learning data science<br>
 - 👯 I’m looking to collaborate on open source projects<br>
