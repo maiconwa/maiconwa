@@ -1,8 +1,9 @@
 <p align="center">
 ### Hi there 👋
 </p>
-
+<br align="center">
 <sumary align="center"> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
+</br>
 <details align="center">
 - 🔭 I’m currently working on a portfolio<br>
 - 🌱 I’m currently learning data science<br>
