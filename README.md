@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I have an eight years old cat.<br>
 </details>
 -->
-![Portfólio](https://github.com/maiconwa/maiconwa/blob/351456.jpg?raw=true)
+![Portfólio](https://github.com/maiconwa/maiconwa/blob/main/351456.png?raw=true)
 [Click aqui](https://maiconwa.github.io/Projeto-Portfolio/)
 
 <p align="center">
