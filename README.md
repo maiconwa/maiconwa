@@ -1,5 +1,5 @@
 <p align="center">
-### Hi there 👋
+Hi there :octocat:
 </p>
 <sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
 <details>
