@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 ### Hi there 👋
 </p>
 <sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
