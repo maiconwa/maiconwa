@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source projects<br>
 - 🤔 I’m looking for help with machine learning<br>
 - 💬 Ask me about Python<br>
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
 - 😄 Pronouns: He/his<br>
 - ⚡ Fun fact: I have an eight years old cat.<br>
 </details>
