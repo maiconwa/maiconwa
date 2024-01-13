@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maicon</h1>
-
+<!--<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maicon</h1>-->
+<!--
 <p align="center">
 <sumary> <b> Things to know about me! </b> <i>(click to expand!)</i> </sumary>
 </p>
@@ -13,8 +13,8 @@
 - 💬 Ask me about Python<br>
 - 📫 How to reach me: <br>
 - 😄 Pronouns: He/his<br>
-- ⚡ Fun fact: I have an eight years old cat.<br>
-</details>
+- ⚡ Fun fact: I have an evelen years old cat.<br>
+</details>-->
 
 
 <!--  
