@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning a bunch of stuff<br>
 - 💬 Ask me about Python<br>
 - 😄 Pronouns: He/Him<br>
-- ⚡ Fun fact: I have an evelen year old cat.<br>
+- ⚡ Fun fact: I have an evelen years old cat.<br>
 </details>
 
 <p align="center"> 
